@@ -1,0 +1,8 @@
+1. Username = "root"
+Password = "pass"
+host = "localhost"
+
+2. python package:
+PyQt5
+Mysql
+win32printing
